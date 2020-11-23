@@ -6,6 +6,9 @@ namespace Esercitazone
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Insersci una frase");
+            Console.ReadLine();
+   
             String unicodeString =
                 "This Unicode string has 2 characters outside the "   +
                 "ASCII range: \n" +
