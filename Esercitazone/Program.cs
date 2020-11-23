@@ -7,7 +7,7 @@ namespace Esercitazone
         static void Main(string[] args)
         {
             String unicodeString =
-                "This Unicode string has 2 characters outside the "  +
+                "This Unicode string has 2 characters outside the "   +
                 "ASCII range: \n" +
                 "Pi (\u03A0), and Sigma (\u03A3).";
             Console.WriteLine("Original string:");
